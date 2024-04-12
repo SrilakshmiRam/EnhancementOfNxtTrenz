@@ -1,0 +1,64 @@
+.payment-options-list {
+  list-style-type: none;
+}
+
+.payment-option {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.payment-container {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0px 0px 1px 1px #d1dbdb;
+  border-radius: 5px;
+}
+
+.order-msg {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 800;
+  color: green;
+}
+
+.order-details {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 800;
+  color: #000000;
+}
+
+.items-number {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 800;
+  color: #f5ef42;
+}
+
+.disabledText {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #d1dbdb;
+}
+
+.payment-text {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #333634;
+}
+
+.price-total {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 800;
+  color: #42f5f5;
+}
+
+.button-confirm {
+  height: 35px;
+  width: 120px;
+  border-radius: 5px;
+}

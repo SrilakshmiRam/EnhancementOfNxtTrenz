@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  line-height: 1.5;
+}
+
+.cartItemNumber {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #616e7c;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 700;
+  height: 40px;
+  width: 300px;
+  border-radius: 4px;
+  border-width: 0px;
+  color: #ffffff;
+}
+
+.total-amountof-cartItems {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  color: #616e7c;
+}
+
+.amount {
+  color: #171f46;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.close-button {
+  display: flex;
+  align-self: flex-end;
+  margin: 10px;
+}
+
+.popup-container {
+  border: 1px red solid;
+  display: flex;
+  flex-direction: column;
+}
